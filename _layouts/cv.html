@@ -1,0 +1,116 @@
+---
+layout: default
+---
+
+<article class="cv-page">
+  <div class="container">
+    <header class="cv-header">
+      <div class="cv-personal">
+        <h1 class="cv-name">{{ site.data.cv.personal.name }}</h1>
+        <h2 class="cv-title">{{ site.data.cv.personal.title }}</h2>
+        <div class="cv-contact">
+          <span class="cv-phone">{{ site.data.cv.personal.phone }}</span>
+          <span class="cv-separator">|</span>
+          <span class="cv-email"><a href="mailto:{{ site.data.cv.personal.email }}">{{ site.data.cv.personal.email }}</a></span>
+          <span class="cv-separator">|</span>
+          <span class="cv-location">{{ site.data.cv.personal.location }}</span>
+        </div>
+      </div>
+
+      <div class="cv-profile">
+        <p>{{ site.data.cv.profile }}</p>
+      </div>
+    </header>
+
+    <div class="cv-content">
+      <aside class="cv-sidebar">
+        <section class="cv-section">
+          <h3 class="cv-section-title">Umiejętności</h3>
+          {% for skill in site.data.cv.skills %}
+          <div class="skill-category">
+            <h4>{{ skill[1].title }}</h4>
+            <ul class="skill-list">
+              {% for item in skill[1].items %}
+              <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endfor %}
+        </section>
+
+        <section class="cv-section">
+          <h3 class="cv-section-title">Języki</h3>
+          <ul class="language-list">
+            {% for lang in site.data.cv.languages %}
+            <li>
+              <span class="language-name">{{ lang.language }}:</span>
+              <span class="language-level">{{ lang.level }}</span>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+
+        <section class="cv-section">
+          <h3 class="cv-section-title">Zainteresowania</h3>
+          <ul class="interest-list">
+            {% for interest in site.data.cv.interests %}
+            <li>{{ interest }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+
+        <section class="cv-section">
+          <h3 class="cv-section-title">Kursy i szkolenia</h3>
+          <ul class="course-list">
+            {% for course in site.data.cv.courses %}
+            <li>
+              <strong>{{ course.title }}</strong><br>
+              <small>{{ course.institution }} | {{ course.date }}</small>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+      </aside>
+
+      <main class="cv-main">
+        <section class="cv-section">
+          <h3 class="cv-section-title">Doświadczenie zawodowe</h3>
+          {% for job in site.data.cv.experience %}
+          <div class="job-item">
+            <div class="job-header">
+              <h4 class="job-position">{{ job.position }}</h4>
+              <span class="job-company">{{ job.company }}</span>
+              <span class="job-period">{{ job.period }}</span>
+            </div>
+            <ul class="job-description">
+              {% for desc in job.description %}
+              <li>{{ desc }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endfor %}
+        </section>
+
+        <section class="cv-section">
+          <h3 class="cv-section-title">Wykształcenie</h3>
+          {% for edu in site.data.cv.education %}
+          <div class="education-item">
+            <h4 class="education-degree">{{ edu.degree }}</h4>
+            <p class="education-institution">{{ edu.institution }}</p>
+            <p class="education-period">{{ edu.period }}</p>
+          </div>
+          {% endfor %}
+        </section>
+
+        <section class="cv-section">
+          <h3 class="cv-section-title">Inne umiejętności i uprawnienia</h3>
+          <ul class="additional-skills-list">
+            {% for skill in site.data.cv.additional_skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+          </ul>
+        </section>
+      </main>
+    </div>
+  </div>
+</article>

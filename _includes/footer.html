@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="contact-info">
+        <h3>Kontakt</h3>
+        <p>
+          <strong>Telefon:</strong> <a href="tel:{{ site.phone }}">{{ site.phone }}</a><br>
+          <strong>E-mail:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      </div>
+      <div class="social-links">
+        {% include social_links.html %}
+      </div>
+    </div>
+    <div class="copyright">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.name }}. Wszelkie prawa zastrzeżone.</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,205 @@
+---
+# Dane osobowe
+personal:
+  name: Michał Domżalski
+  title: Global Buyer / Category Expert - IT Software & Strategic Components
+  phone: +48 507 983 888
+  email: michaldom@gmail.com
+  location: Toruń, Polska
+
+# Profil zawodowy
+profile: >-
+  Kupiec z kilkuletnim doświadczeniem w obszarze globalnego łańcucha dostaw
+  (kategoria IT/Software oraz komponenty strategiczne), absolwent zarządzania na UMK.
+  Wykazuje rozwinięte umiejętności analityczne, biegłą znajomość zaawansowanych funkcji
+  MS Excel, technik negocjacyjnych oraz nowoczesnych strategii i narzędzi sourcingowych.
+
+# Doświadczenie zawodowe
+experience:
+  - company: Profi Kooperation Sp. z o.o., Toruń
+    position: Kierowca taxi
+    period: 06.2025 – 03.2026
+    description:
+      - Przewóz pasażerów za pośrednictwem aplikacji Bolt, praca w ramach zarządzania flotą samochodową
+
+  - company: Colt Drive Sp. z o.o.
+    position: Kierowca Bolt / Uber
+    period: 02.2024 – 12.2024
+    description:
+      - Samodzielne świadczenie usług licencjonowanego przewozu osób własnym samochodem za pośrednictwem platform Uber, Bolt oraz FreeNow
+
+  - company: ATOS IT Services (UK, International / Global)
+    position: Global Buyer – Software
+    period: 01.2022 – 05.2023
+    description:
+      - Kompleksowa obsługa zapotrzebowania na oprogramowanie na poziomie globalnym dla całej grupy Atos
+      - Prowadzenie zaawansowanych procesów ofertowych (RFP, RFQ, aukcje elektroniczne)
+      - Ocena merytoryczna i finansowa oferowanych rozwiązań, porównywanie warunków handlowych oraz bezpośrednie negocjacje kontraktów
+      - Sourcing strategiczny polegający na poszukiwaniu nowych globalnych dostawców IT oraz optymalizacji współpracy z obecnymi partnerami
+      - Opracowywanie i skuteczna realizacja globalnej strategii zakupowej dla podległej kategorii
+
+  - company: ATOS IT Services (UK, International / Global)
+    position: Category Expert – UK&I Software
+    period: 02.2019 – 12.2021
+    description:
+      - Negocjacje cen, warunków licencyjnych oraz zapisów handlowych z kluczowymi globalnymi dostawcami oprogramowania
+      - Zapewnianie nowych źródeł dostaw, ciągłe monitorowanie trendów rynkowych oraz analizowanie ryzyk w łańcuchu dostaw
+      - Prowadzenie postępowań ofertowych na zakup licencji na potrzeby nowych i istniejących projektów biznesowych
+      - Cykliczna, głęboka analiza wydatków w ramach zarządzanej kategorii zakupowej
+      - Konsolidacja bazy drobnych dostawców w celu optymalizacji kosztów operacyjnych
+      - Weryfikacja merytoryczna i formalna oraz zatwierdzanie transakcji zakupowych o znacznej wartości
+
+  - company: ATOS IT Services (UK, International / Global)
+    position: Spot Buyer – UK&I Software
+    period: 11.2017 – 01.2019
+    description:
+      - Analiza porównawcza i ewaluacja ofert spływających od dostawców oprogramowania
+      - Weryfikacja oraz zatwierdzanie operacyjnych wniosków zakupowych o wolumenie ok. £5-10 mln miesięcznie
+      - Prowadzenie szybkich negocjacji cenowych i handlowych dla zakupów typu spot (jednorazowych)
+      - Wstępna weryfikacja prawno-handlowa kontraktów pod kątem zgodności z restrykcyjnymi wytycznymi działu prawnego
+      - Aktywny udział w cotygodniowych spotkaniach Komitetu Inwestycyjnego wspólnie z działem finansowym i pionem handlowym
+      - Bieżące wsparcie doradcze dla jednostek biznesowych w zakresie procesowania wniosków i obsługi zapytań zakupowych
+
+  - company: PESA Bydgoszcz SA
+    position: Planista Zakupów Strategicznych
+    period: 04.2015 – 10.2017
+    description:
+      - Kompleksowe zarządzanie procesem zakupowym komponentów strategicznych (m.in. elementy odlewane, łożyska, elementy metalowo-gumowe, pantografy, toalety próżniowe)
+      - Konstruowanie i wysyłanie zapytań ofertowych, profesjonalna analiza i kwalifikacja ofert techniczno-handlowych
+      - Negocjacje warunków współpracy dla nowych, kluczowych projektów produkcyjnych
+      - Tworzenie, monitorowanie i stała aktualizacja operacyjnych harmonogramów dostaw pod plan produkcyjny
+      - Bieżąca koordynacja współpracy z dostawcami krajowymi oraz zagranicznymi w zakresie zamówień, logistyki i rozliczeń finansowych
+      - Identyfikowanie i wdrażanie alternatywnych źródeł dostaw komponentów
+
+  - company: Grupa NEUCA
+    position: Specjalista ds. Zarządzania Zapasami Aptek
+    period: 03.2014 – 03.2015
+    description:
+      - Zarządzanie optymalnym poziomem zapasów dla bazy ok. 3000 preparatów medycznych w dedykowanej grupie aptek
+      - Generowanie i nadzór nad codziennymi zamówieniami dystrybucyjnymi dla ponad 20 strategicznych klientów
+      - Optymalizacja struktury magazynowej poprzez utrzymywanie kluczowych wskaźników KPI (dostępność asortymentu, rotacja magazynowa) na wyznaczonym poziomie
+      - Tworzenie precyzyjnych prognoz sprzedażowych oraz przekrojowych analiz stanów magazynowych
+      - Projektowanie i wdrażanie wewnętrznych narzędzi analitycznych oraz raportowych usprawniających efektywność pracy zespołu
+
+  - company: Grupa NEUCA
+    position: Specjalista ds. Zakupów Centralnych
+    period: 04.2012 – 02.2014
+    description:
+      - Efektywne zarządzanie bazą ok. 2000 SKU o łącznej wartości 12 mln PLN, ulokowanych w 5 centralnych magazynach dystrybucyjnych
+      - Zapewnianie ciągłości dostępności asortymentu na potrzeby sprzedaży bieżącej oraz akcji sezonowych
+      - Codzienna współpraca handlowa i operacyjna z portfelem 30 kluczowych dostawców
+      - Utrzymywanie optymalnych wskaźników finansowania zapasów przy jednoczesnym zapewnieniu wysokiej dostępności towarów
+      - Sporządzanie zaawansowanych raportów, analiz zapasów oraz prowadzenie okresowych ocen dostawców (vendor rating)
+
+  - company: SHARP Manufacturing Poland
+    position: Asystent Magazynu, Młodszy Specjalista ds. Logistyki
+    period: 06.2010 – 03.2012
+    description:
+      - Ewidencjonowanie i bilansowanie dokumentów materiałowych w systemie SAP (przyjęcia, wydania wewnętrzne, przesunięcia międzymagazynowe)
+      - Księgowanie wolumenu produkcji podwykonawców na podstawie raportów okresowych oraz rozliczanie faktur z zamówieniami zakupu
+      - Operacyjne zaopatrywanie linii produkcyjnych w komponenty z zewnętrznych centrów logistycznych
+      - Bieżąca kontrola stanów magazynowych oraz harmonogramowanie dostaw
+      - Aktywny udział w spotkaniach planistycznych i weryfikacja dostępności komponentów pod plany produkcyjne
+      - Organizacja i nadzór nad dostawami w systemie Just-in-Time (JiT) zgodnie z aktualnym planem MPS
+
+# Wykształcenie
+education:
+  - institution: Central Ostrobothnia University of Applied Sciences (Kokkola, Finlandia)
+    degree: Business Administration (Stypendium zagraniczne Erasmus)
+    period: 09.2008 – 05.2009
+
+  - institution: Uniwersytet Mikołaja Kopernika w Toruniu
+    degree: Zarządzanie i marketing (Studia licencjackie)
+    period: 10.2006 – 10.2009
+
+  - institution: Liceum Ogólnokształcące im. Marii Dąbrowskiej w Żurominie
+    degree: Profil informatyczno-matematyczny
+    period: 10.2003 – 06.2006
+
+# Kursy i szkolenia
+courses:
+  - title: CIPS Level 4 – Diploma in Procurement and Supply
+    institution: The Chartered Institute of Procurement and Supply
+    date: 06.2021
+
+  - title: Zaawansowane negocjacje zakupowe i zarządzanie kategorią
+    institution: Atos, Bydgoszcz
+    date: 09.2018
+
+  - title: Budowanie relacji, Wywieranie wpływu, Negocjacje
+    institution: Neuca, Toruń
+    date: 06–07.2014
+
+  - title: Podstawy Six Sigma i optymalizacji procesów
+    institution: Neuca, Toruń
+    date: 02.2013
+
+# Znajomość języków
+languages:
+  - language: Polski
+    level: Ojczysty
+
+  - language: Angielski
+    level: Zaawansowany (C1)
+
+  - language: Hiszpański
+    level: Początkujący (A1)
+
+  - language: Niemiecki
+    level: Podstawowy
+
+# Umiejętności techniczne
+skills:
+  ai_llm:
+    title: Narzędzia AI / LLM
+    items:
+      - Claude, Google Gemini, modele GPT z OpenAI, Whisper
+      - Dostęp do modeli w chmurze przez interfejsy API, instalacje lokalne open-source
+      - Podstawy systemów agentowych (Claude Code, Open code, Codex)
+      - Automatyzacja procesów i integracje
+
+  programming:
+    title: Informatyka i programowanie
+    items:
+      - Podstawy VBA, Python, C++, HTML
+      - Obsługa i administracja systemów Linux (Debian / Ubuntu) z poziomu CLI i GUI (KDE, Gnome)
+
+  procurement:
+    title: Platformy zakupowe
+    items:
+      - SAP Ariba, Logintrade
+
+  erp:
+    title: Systemy ERP
+    items:
+      - SAP R/3 (zaawansowana znajomość modułów MM, SD, PU), IFS
+
+  office:
+    title: Pakiety biurowe
+    items:
+      - MS Excel (zaawansowany – budowa modeli analitycznych i raportów)
+      - MS Word, OpenOffice, MS Outlook, PowerPoint, Lotus Notes
+
+  bi:
+    title: Narzędzia BI (Business Intelligence)
+    items:
+      - Business Object Rich Client (podstawy), Panorama Necto
+
+# Inne umiejętności i uprawnienia
+additional_skills:
+  - Prawo jazdy kat. B z uprawnieniami kierowcy zawodowego do przewozu osób (aktualne badania lekarskie i orzeczenie psychologiczne ważne do 2029 r.)
+  - Państwowe Pozwolenie Radiowe UKE oraz Świadectwo Radiooperatora w służbie amatorskiej (licencja krótkofalarska, znak wywoławczy: SP2DMZ)
+  - Podstawowa diagnostyka elektroniczna oraz serwisowanie analogowych urządzeń audio (amplitunery, wzmacniacze), strojenie głowic wysokiej częstotliwości (w.cz.), regeneracja przetworników elektroakustycznych
+  - Biegła obsługa przyrządów pomiarowych (oscyloskop, generator, multimetr) oraz analiza schematów ideowych
+  - Serwis urządzeń mobilnych: diagnostyka sprzętowa (wymiana baterii, modułów wyświetlacza LCD), modyfikacje oprogramowania Android
+  - Praktyczne umiejętności techniczne: sprawne posługiwanie się elektronarzędziami, samodzielne wykonywanie precyzyjnych napraw domowych
+
+# Zainteresowania
+interests:
+  - Nowe technologie komputerowe, otwarte oprogramowanie (Open Source) oraz dystrybucje systemu Linux
+  - Elektronika użytkowa, retro-audio, technika radiowa oraz aktywne krótkofalarstwo (krótkofalowiec od 2019 r.)
+  - Rynki finansowe i mechanizmy inwestycyjne (aktywny inwestor na Giełdzie Papierów Wartościowych w Warszawie od 2009 roku)
+  - Kultura i sztuka (w szczególności teatr), podróże geograficzne oraz poznawanie odmiennych kultur świata
+```
+
+---

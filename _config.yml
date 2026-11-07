@@ -1,0 +1,39 @@
+---
+title: Michał Domżalski - CV
+name: Michał Domżalski
+description: >-
+  Kupiec z kilkuletnim doświadczeniem w obszarze globalnego łańcucha dostaw
+  (kategoria IT/Software oraz komponenty strategiczne)
+email: michaldom@gmail.com
+phone: +48 507 983 888
+baseurl: "" # Zmień na "/repo-name" jeśli nie używasz user site
+timezone: Europe/Warsaw
+lang: pl
+
+# URL repozytorium (dla GitHub Pages)
+url: "https://ikslazmod.github.io"
+repository: ikslazmod/ikslazmod.github.io
+
+# Ustawienia Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugins (GitHub Pages obsługuje te domyślnie)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Wykluczone pliki
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+```
+
+---
